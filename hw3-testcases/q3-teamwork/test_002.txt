@@ -1,0 +1,42 @@
+almond pink white white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 0
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+pink white white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 1
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond white white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 2
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 3
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 4
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white tickle_me_pink red_munsell medium_taupe medium_taupe pale_plum
+===
+10 5
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white violet_blue red_munsell medium_taupe medium_taupe pale_plum
+===
+10 6
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white violet_blue tickle_me_pink medium_taupe medium_taupe pale_plum
+===
+10 7
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white violet_blue tickle_me_pink red_munsell medium_taupe pale_plum
+===
+10 8
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white violet_blue tickle_me_pink red_munsell medium_taupe pale_plum
+===
+10 9
+pale_plum red_munsell corn tickle_me_pink almond white charm_pink pink medium_taupe violet_blue
+almond pink white white violet_blue tickle_me_pink red_munsell medium_taupe medium_taupe
+===

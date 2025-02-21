@@ -1,0 +1,22 @@
+E E E E E
+===
+5 0
+A B C D E
+E E E E
+===
+5 1
+A B C D E
+E E E E
+===
+5 2
+A B C D E
+E E E E
+===
+5 3
+A B C D E
+E E E E
+===
+5 4
+A B C D E
+E E E E
+===

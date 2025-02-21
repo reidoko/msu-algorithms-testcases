@@ -1,0 +1,22 @@
+fawn orange_peel gainsboro fawn fawn
+===
+5 0
+gainsboro orange_peel fawn yellow white_smoke
+orange_peel gainsboro fawn fawn
+===
+5 1
+gainsboro orange_peel fawn yellow white_smoke
+fawn gainsboro fawn fawn
+===
+5 2
+gainsboro orange_peel fawn yellow white_smoke
+fawn orange_peel fawn fawn
+===
+5 3
+gainsboro orange_peel fawn yellow white_smoke
+fawn orange_peel gainsboro fawn
+===
+5 4
+gainsboro orange_peel fawn yellow white_smoke
+fawn orange_peel gainsboro fawn
+===

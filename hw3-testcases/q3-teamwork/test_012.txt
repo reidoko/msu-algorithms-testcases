@@ -1,0 +1,22 @@
+A A A A B
+===
+5 0
+A B C D E
+A A A B
+===
+5 1
+A B C D E
+A A A B
+===
+5 2
+A B C D E
+A A A B
+===
+5 3
+A B C D E
+A A A B
+===
+5 4
+A B C D E
+A A A A
+===

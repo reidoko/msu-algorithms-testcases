@@ -1,0 +1,10 @@
+3
+hello
+apple
+pear
+4
+hello
+banana
+tiger
+apple
+
