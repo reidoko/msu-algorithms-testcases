@@ -8,7 +8,7 @@ Every "===" separates the individual test cases for each bot for this color set.
 For example, with test case 15:
 
 E B C D A  
-indicates that the assignment of colors to robots for this test case is
+indicates that the assignment of colors to robots for this test case is  
 0 gets E  
 1 gets B  
 2 gets C  
