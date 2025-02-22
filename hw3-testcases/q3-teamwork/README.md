@@ -1,3 +1,7 @@
+**Note: The individual files here contain multiple inputs! Your program will be tested by running it several times for each test case, once for each robot.**
+
+If you are wondering what the input your program should expect will look like, either refer to the homework prompt, or look in the `3-test` directory.
+
 The first line has the colors assigned to each robot in order from 0 to N
 
 Every "===" separates the individual test cases for each bot for this color set.
